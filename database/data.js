@@ -68,7 +68,7 @@ module.exports.dashData = {
           ,datasets : [{
             label:'Web Traffic ',
             data : [2000,3000,5000,5800,1000],
-            backgroundColor : ['#7E7BEA','#F9DBE0'],
+            backgroundColor : ['#7E7BEA','#3E3C77'],
             borderRadius : 10
             }]
         },
